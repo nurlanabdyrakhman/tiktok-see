@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726982525425",
+    "project_id": "tiktok-see",
+    "storage_bucket": "tiktok-see.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726982525425:android:f15f7a3d90d6766576c450",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_see"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726982525425-bb2psm7g8jd9c45ccsb19s38sqgh4cns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qmixZq1bO7y0tY94mDiXpC9c5k_06oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726982525425-bb2psm7g8jd9c45ccsb19s38sqgh4cns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
